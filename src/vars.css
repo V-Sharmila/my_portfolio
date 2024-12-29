@@ -1,0 +1,18 @@
+:root {
+  /* Colours */
+  --color-text: #fff; /* White text for contrast */
+  --color-primary: #f58b9b; /* Soft pink */
+  --color-secondary: #d18cd1; /* Lavender purple */
+  --color-dark: #c17d8e; /* Muted pink */
+  --color-bg: linear-gradient(to right, #f58b9b, #d18cd1); /* Pink to lavender gradient */
+
+  /* Fonts */
+  --font-cursive: "Dancing Script", cursive; /* Cursive font */
+}
+
+body {
+  background: var(--color-bg);
+  font-family: var(--font-cursive); /* Applying the cursive font */
+  color: var(--color-text); /* White text */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Subtle shadow to make text visible */
+}

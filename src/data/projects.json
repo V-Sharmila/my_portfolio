@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Breast Cancer Detection",
+      
+      "description": "Developed a Breast Cancer prediction model using ADABOOST algorithm. Used Wisconsin Breast Cancer dataset.This model acheived 98 percent accuracy. After achieving high accuracy deployed it using Streamlit Application",
+      "skills": ["Python","Streamlit"],
+      "source": "https://github.com/V-Sharmila/Breast_Cancer_Detection"
+    },
+    {
+      "title": "Image Generation Using GAN Model",
+      
+      "description": "Developed a GAN using CycleGAN with ResNet and U-Net architectures to generate 7,000-10,000 Monet-style images,achieving higher accuracy with ResNet and improved generator loss with U-Net.",
+      "skills": ["Python"],
+      "source": "https://github.com/V-Sharmila/Image-Geneartion"
+    },
+    {
+      "title": "Demand Forecasting for Inventory Management",
+  
+      "description": "Developed a Python-based demand forecasting model with 93 percent accuracy using historical sales data and statistical techniques. Improved inventory optimization, reduced excess stock, and enhanced production planning for businesses.",
+      "skills": ["Python","Streamlit"],
+      
+      "source": "https://github.com/V-Sharmila/Demand-Forecast-Sales-prediction-"
+    }
+  ]

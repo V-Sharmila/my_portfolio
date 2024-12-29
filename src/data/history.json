@@ -1,0 +1,29 @@
+[
+    {
+      "role": "AI Intern",
+      "organisation": "Infosys Springboard",
+      "startDate": "Sept, 2024",
+      "endDate": "Dec, 2024",
+      "experiences": ["Worked on Breast Cancer Detection usinf ADABoost"]
+      
+    },
+    {
+      "role": "Machine Learning Intern",
+      "organisation": " Orinson Technologies ",
+      "startDate": "Aug, 2024",
+      "endDate": "Sept, 2024",
+      "experiences": [
+        "Developed and optimized ML models, focusing on data preprocessing, feature engineering, and real-world applications."
+      ]
+      
+    },
+    {
+      "role": "Data Science Intern",
+      "organisation": " Meister-Gen Technologies Private Limited ",
+      "startDate": "June, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Used Res2Mod for geophysical data modeling, improving data accuracy by 40%."]
+      
+    }
+    
+  ]

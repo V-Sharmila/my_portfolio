@@ -1,0 +1,32 @@
+{
+  "Skills": {
+    "Languages": [
+      "Python",
+      "C",
+      "Java",
+      "HTML/CSS",
+      "SQL"
+    ],
+    "Tools": [
+      "VS Code",
+      "Streamlit",
+      "Eclipse",
+      "Tableau",
+      "Jupyter Notebook",
+      "Canva"
+    ],
+    "OS": "Linux",
+    "Soft Skills": [
+      "Communication Skills",
+      "Multilingual",
+      "Time Management",
+      "Public Speaking",
+      "Leadership",
+      "Problem Solving",
+      "Adaptability",
+      "Active Listening",
+      "Team Work",
+      "Work Ethics"
+    ]
+  }
+}
